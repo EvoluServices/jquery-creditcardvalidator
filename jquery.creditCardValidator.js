@@ -164,6 +164,14 @@
         range: '5019',
         valid_length: [16]
       }, {
+        name: 'hipercard',
+        range: '606282',
+        valid_length: [16, 19]
+      }, {
+        name: 'hipercard',
+        range: '3841',
+        valid_length: [19]
+      }, {
         name: 'maestro',
         range: '50, 56-69',
         valid_length: [12, 13, 14, 15, 16, 17, 18, 19]
